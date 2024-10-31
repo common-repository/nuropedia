@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+.bgimg {
+    background-image: url(https://ik.imagekit.io/theepictechie/Nuronics_Images/heroshape_pMn6-NSnB.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1655100158223);
+
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 100vh;
+    min-width: 100vw;
+    padding-top:50px;
+}
+.header {
+    font-family: "Poppins", sans-serif;
+    display: flex;
+}
+
+.header img {
+    height: 4rem;
+    margin-top: 1.5rem;
+}
+
+
+
+.formdiv {
+    
+    
+}
+.nuroSection{
+    border-radius: 2rem;
+
+    background: white;
+    border: 1px solid #00000036;
+    margin-left: 25%;
+    width:500px;
+    max-height:500px;
+    padding-left: 60px;
+    padding-right: 60px;
+    box-shadow: 0 0 1.2rem rgba(0, 0, 0, 0.5);
+}
+
+.formform {
+    width: 100%;
+    margin-top: 7%;
+}
+
+.logins {
+    text-align: center;
+    padding: 20px;
+    font-weight: 800;
+}
+.custombtn{
+    border: 1px solid #C3D6E2;
+    background: #F5F8FA 0% 0% no-repeat padding-box;
+    background-color:#5749FF;
+    color:white;
+    border-radius: 8px;
+    width: 424px;
+    height: 40px;
+    
+}
+button{
+    cursor:pointer;
+}
+.whiteBtn{
+
+    cursor: pointer;
+
+    border: 1px solid #C3D6E2;
+    background: #F5F8FA 0% 0% no-repeat padding-box;
+    background-color:white;
+    color:#F5F8FA;
+    border-radius: 8px;
+    width: 424px;
+    height: 40px;
+
+}

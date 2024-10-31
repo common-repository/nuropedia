@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.04" height="25.148" viewBox="0 0 38.04 25.148">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.355" y1="0.172" x2="0.478" y2="1.232" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ebf4fc"/>
+      <stop offset="1" stop-color="#dadede"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.326" y1="0.433" x2="0.853" y2="0.539" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.187" y1="0.209" x2="0.865" y2="0.824" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dadede"/>
+      <stop offset="1" stop-color="#ebf4fc"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#222"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" y1="-0.574" x2="0.5" y2="0.859" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#101531" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.136" cy="0.164" r="0.654" gradientTransform="matrix(0.443, 0.896, -0.557, 0.276, 0.167, -0.003)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a0dcfe"/>
+      <stop offset="1" stop-color="#6edcff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.261" cy="0.257" r="0.543" gradientTransform="matrix(0.887, 0.461, -0.293, 0.564, 0.105, -0.008)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f3fafe"/>
+      <stop offset="1" stop-color="#6edcff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="0.702" cy="0.24" r="0.486" gradientTransform="matrix(-0.825, 0.564, -0.396, -0.579, 1.377, -0.017)" xlink:href="#radial-gradient-2"/>
+  </defs>
+  <g id="Group_786" data-name="Group 786" transform="translate(-1137.001 -20213.09)">
+    <g id="Head" transform="translate(1137.001 20213.09)">
+      <path id="Ears" d="M0,49.678c0,4.529,8.516,8.2,19.02,8.2s19.02-3.671,19.02-8.2-8.515-8.2-19.02-8.2S0,45.149,0,49.678" transform="translate(0 -35.845)" fill="url(#linear-gradient)"/>
+      <path id="Head-2" data-name="Head" d="M34.2,0A18.345,18.345,0,0,0,22.341,4.155a13.276,13.276,0,0,0-4.981,10.01A9.981,9.981,0,0,0,23.009,23.2c2.819,1.511,6.585,1.948,11.191,1.948s8.371-.437,11.191-1.948a9.981,9.981,0,0,0,5.649-9.036,13.276,13.276,0,0,0-4.981-10.01A18.345,18.345,0,0,0,34.2,0Z" transform="translate(-15.003 0)" fill="url(#linear-gradient-2)"/>
+      <path id="Face_Ring" data-name="Face Ring" d="M58.085,19.374h-.063a10.434,10.434,0,0,0-1.113.012,21.989,21.989,0,0,0-6.534,1.531C47.227,22.264,44.31,24.07,45.4,31.906c.434,3.133,1.828,4.942,3.827,5.979,2.122,1.1,4.929,1.335,8,1.367.555,0,1.106,0,1.648,0,3.075-.032,5.882-.267,8-1.367,2-1.036,3.392-2.846,3.827-5.979,1.086-7.836-1.828-9.642-4.979-10.989a21.978,21.978,0,0,0-6.53-1.531s-.24-.02-.649-.02c-.137,0-.292,0-.464.008" transform="translate(-39.033 -16.736)" fill="url(#linear-gradient-3)"/>
+      <path id="Face" d="M62.034,43.658c-2.774-.029-5.631-.2-7.708-1.28-1.926-1-2.994-2.693-3.36-5.33-1.079-7.759,1.866-9.02,4.465-10.132a21.587,21.587,0,0,1,6.326-1.482c.029,0,.245-.019.607-.019.128,0,.274,0,.435.008h.137c.161-.006.307-.008.435-.008.362,0,.579.017.581.017a21.6,21.6,0,0,1,6.35,1.484c2.6,1.111,5.543,2.37,4.467,10.131-.366,2.637-1.433,4.331-3.36,5.33-2.077,1.076-4.933,1.252-7.711,1.28-.271,0-.548,0-.826,0s-.558,0-.839,0" transform="translate(-43.847 -21.964)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" fill="url(#linear-gradient-4)"/>
+      <path id="Face_Highlight" data-name="Face Highlight" d="M69.541,33.063h-.209c-.148-.005-.282-.007-.4-.007-.3,0-.488.013-.546.017a20.665,20.665,0,0,0-5.978,1.4c-2.476,1.06-4.815,2.06-3.845,9.035.32,2.306,1.186,3.71,2.81,4.551,1.884.977,4.593,1.137,7.238,1.164q.418,0,.832,0c.276,0,.55,0,.815,0,2.649-.027,5.361-.187,7.245-1.164,1.623-.842,2.489-2.245,2.809-4.552.967-6.977-1.371-7.976-3.847-9.034a20.521,20.521,0,0,0-6.021-1.4c-.009,0-.195-.014-.5-.014-.118,0-.251,0-.4.007" transform="translate(-50.416 -28.567)" fill="url(#linear-gradient-5)"/>
+      <path id="Mouth" d="M122.338,115.05a.21.21,0,0,0-.208.229,2.445,2.445,0,0,0,4.868,0,.21.21,0,0,0-.208-.229Z" transform="translate(-105.544 -99.426)" fill="url(#radial-gradient)"/>
+    </g>
+    <g id="Eyes" transform="translate(1148.69 20220.15)">
+      <path id="Left_Eye" data-name="Left Eye" d="M164.831,52.526c-.994.364-1.355,1.871-.808,3.366s1.8,2.411,2.792,2.047,1.355-1.872.807-3.366a2.9,2.9,0,0,0-2.336-2.127,1.317,1.317,0,0,0-.456.08" transform="translate(-153.218 -52.446)" fill="url(#radial-gradient-2)"/>
+      <path id="Right_Eye" data-name="Right Eye" d="M86.337,54.264c-.548,1.495-.186,3,.807,3.366s2.244-.552,2.792-2.047.187-3-.807-3.366a1.318,1.318,0,0,0-.456-.08,2.9,2.9,0,0,0-2.336,2.126" transform="translate(-86.082 -52.138)" fill="url(#radial-gradient-3)"/>
+    </g>
+  </g>
+</svg>
